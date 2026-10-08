@@ -1,0 +1,11 @@
+D:\C#\practice2\practice2\bin\Debug\practice2.exe.config
+D:\C#\practice2\practice2\bin\Debug\practice2.exe
+D:\C#\practice2\practice2\bin\Debug\practice2.pdb
+D:\C#\practice2\practice2\obj\Debug\practice2.csproj.AssemblyReference.cache
+D:\C#\practice2\practice2\obj\Debug\practice2.Form1.resources
+D:\C#\practice2\practice2\obj\Debug\practice2.Properties.Resources.resources
+D:\C#\practice2\practice2\obj\Debug\practice2.csproj.GenerateResource.cache
+D:\C#\practice2\practice2\obj\Debug\practice2.csproj.CoreCompileInputs.cache
+D:\C#\practice2\practice2\obj\Debug\practice2.exe
+D:\C#\practice2\practice2\obj\Debug\practice2.pdb
+D:\C#\practice2\practice2\obj\Debug\practice2.exe.config
